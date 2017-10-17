@@ -1,5 +1,7 @@
 # RepositorioCompartido
-JUAN DANIEL MOSQUERA MINA
+JUAN DANIEL MOSQUERA MINA modificacion remota
+
+
 
 
 
