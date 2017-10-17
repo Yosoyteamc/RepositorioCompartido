@@ -1,2 +1,5 @@
 # RepositorioCompartido
-Repositorio a compartit
+JUAN DANIEL MOSQUERA MINA
+
+
+
