@@ -1,8 +1,6 @@
 # RepositorioCompartido
-JUAN DANIEL MOSQUERA MINA modificacion remota 4
-
-
-
-
+JUAN DANIEL MOSQUERA MINA
+Modificacion de la nueva rama
+Modificacion #2
 
 
